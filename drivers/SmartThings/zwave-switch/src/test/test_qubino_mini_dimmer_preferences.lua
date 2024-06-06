@@ -32,7 +32,7 @@ local qubino_mini_dimmer_endpoints = {
 }
 
 local mock_qubino_mini_dimmer = test.mock_device.build_test_zwave_device({
-  profile = t_utils.get_profile_definition("qubino-mini-dimmer.yml"),
+  profile = t_utils.get_profile_definition("qubino-qubino-mini-dimmer.yml"),
   zwave_endpoints = qubino_mini_dimmer_endpoints,
   zwave_manufacturer_id = 0x0159,
   zwave_product_type = 0x0001,

@@ -1,0 +1,13 @@
+# fingerprint from 'drivers/SmartThings/zwave-switch/fingerprints.yml' was extracted for reference/tutorial purpose.
+zwaveManufacturer:
+  - id: 0159/0001/0055
+    deviceLabel: Qubino Dimmer
+    manufacturerId: 0x0159
+    productType: 0x0001
+    productId: 0x0055
+    deviceProfileName: qubino-mini-dimmer
+
+#MFR specific fingerprints:
+#manufacturerId (required): This is the manufacturer ID value reported by the device
+#productType: This is the product ID value reported by the device
+#productId: This is the product type value reported by the device

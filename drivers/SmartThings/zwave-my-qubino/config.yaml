@@ -1,0 +1,7 @@
+# zwave/switch/mini-dimmer
+name: 'qubino-mini-dimmer'
+packageKey: 'myQubino.example'
+description: 'Example configuration file'
+vendorSupportInformation: 'MyBrandName'
+permissions:
+  zwave: {}
